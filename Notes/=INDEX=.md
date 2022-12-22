@@ -7,15 +7,12 @@
 # B
 
 # C
-Cock
 
 # D
-Dick
 
 # E
 
 # F
-Fuck
 
 # G
 
