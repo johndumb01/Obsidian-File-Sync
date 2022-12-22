@@ -1,0 +1,128 @@
+{
+  "main": {
+    "id": "0c62b47be602d78e",
+    "type": "split",
+    "children": [
+      {
+        "id": "75d5f4102523d4fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1bcbc81a76c1aaf7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hello World.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "500a24f3897ed542",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "2f4b72467de2b452",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a3a7db1e8afa7eab",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "078d93cff9e4b622",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bea1e85af5b7f67a",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "78ae9a7e050a057d",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "261d528ff89aacfe",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Hello World.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bb3f7c6673e97e9f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Hello World.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "d1d55a17f72be4ea",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Hello World.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "1bcbc81a76c1aaf7",
+  "lastOpenFiles": [
+    "README.md"
+  ]
+}
