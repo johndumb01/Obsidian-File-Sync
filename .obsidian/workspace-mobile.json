@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/=INDEX=.md",
+                "file": "Notes/D&D Campaign.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Notes/=INDEX=.md",
+            "file": "Notes/D&D Campaign.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Notes/=INDEX=.md",
+            "file": "Notes/D&D Campaign.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Notes/=INDEX=.md"
+            "file": "Notes/D&D Campaign.md"
           }
         }
       },
@@ -129,6 +129,10 @@
     ],
     "currentTab": 0
   },
-  "active": "3f24ec15f6b26ee6",
-  "lastOpenFiles": []
+  "active": "0ccf77620210becc",
+  "lastOpenFiles": [
+    "Notes/=INDEX=.md",
+    "Notes/D&D Campaign.md",
+    "Template Folder/Daily Note Template.md"
+  ]
 }
