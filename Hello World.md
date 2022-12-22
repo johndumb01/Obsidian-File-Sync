@@ -1,1 +1,1 @@
-wiener wanger banger slanger 
+wiener
