@@ -28,6 +28,7 @@
 # L
 
 # M
+[[Minecraft Server Commands]]
 
 # N
 
