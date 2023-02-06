@@ -5,6 +5,8 @@ Port: 22
 
 To start the server
 java -Xmx10240M -Xms10240M -jar server.jar nogui
+or
+java -Xmx16384M -Xms16384M -jar server.jar nogui
 
 To stop the server
 /stop
