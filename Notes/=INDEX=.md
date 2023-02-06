@@ -43,6 +43,7 @@
 # S
 
 # T
+[[Tarkov Equipment]]
 
 # U
 

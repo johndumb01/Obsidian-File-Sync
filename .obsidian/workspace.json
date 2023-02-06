@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/=INDEX=.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md"
+                "file": "Notes/=INDEX=.md"
               }
             }
           },
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/=INDEX=.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +165,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/=INDEX=.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,10 +190,10 @@
   },
   "active": "ba243c8928ce81df",
   "lastOpenFiles": [
-    "Notes/=INDEX=.md",
-    "Notes/Tarkov Equipment.md",
     "Notes/Minecraft Server Commands.md",
     "Notes/D&D Campaign.md",
+    "Notes/Tarkov Equipment.md",
+    "Notes/=INDEX=.md",
     "Template Folder/Basic Note Template.md",
     "Notes/My Struggle With ADHD (Maybe).md",
     "=INDEX=.md",
