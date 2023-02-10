@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ecf22b99cc5c429b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Minecraft Server Commands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/=INDEX=.md"
+                "file": "Notes/Minecraft Server Commands.md"
               }
             }
           },
@@ -148,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/=INDEX=.md",
+                "file": "Notes/Minecraft Server Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/=INDEX=.md",
+                "file": "Notes/Minecraft Server Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,17 +200,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ba243c8928ce81df",
+  "active": "ecf22b99cc5c429b",
   "lastOpenFiles": [
-    "Notes/Minecraft Server Commands.md",
-    "Notes/D&D Campaign.md",
-    "Notes/Tarkov Equipment.md",
+    "Notes/Untitled.md",
     "Notes/=INDEX=.md",
+    "Notes/Minecraft Server Commands.md",
+    "Notes/Tarkov Equipment.md",
+    "Notes/D&D Campaign.md",
     "Template Folder/Basic Note Template.md",
     "Notes/My Struggle With ADHD (Maybe).md",
     "=INDEX=.md",
     "Template Folder/List Template.md",
-    "Template Folder/Daily Note Template.md",
-    "2022-07-30.md"
+    "Template Folder/Daily Note Template.md"
   ]
 }
