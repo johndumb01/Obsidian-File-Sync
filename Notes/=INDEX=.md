@@ -5,6 +5,7 @@
 # A
 
 # B
+[[Barotrauma Speedrun Cheat Sheet]]
 
 # C
 

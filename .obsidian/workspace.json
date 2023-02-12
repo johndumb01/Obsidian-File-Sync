@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e535b65e9057a794",
+        "id": "f5e97e1f994e40f1",
         "type": "tabs",
         "children": [
           {
-            "id": "21bc144e73b9f59a",
+            "id": "1b91358a8ca4cd5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/=INDEX=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba243c8928ce81df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/=INDEX=.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ecf22b99cc5c429b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/Barotrauma Speedrun Cheat Sheet.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md"
+                "file": "Notes/Barotrauma Speedrun Cheat Sheet.md"
               }
             }
           },
@@ -160,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/Barotrauma Speedrun Cheat Sheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Minecraft Server Commands.md",
+                "file": "Notes/Barotrauma Speedrun Cheat Sheet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -200,17 +175,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ecf22b99cc5c429b",
+  "active": "1b91358a8ca4cd5f",
   "lastOpenFiles": [
-    "Notes/Untitled.md",
     "Notes/=INDEX=.md",
+    "Notes/Barotrauma Speedrun Cheat Sheet.md",
+    "Pasted image 2da0230212123303.png.md",
     "Notes/Minecraft Server Commands.md",
     "Notes/Tarkov Equipment.md",
     "Notes/D&D Campaign.md",
     "Template Folder/Basic Note Template.md",
     "Notes/My Struggle With ADHD (Maybe).md",
     "=INDEX=.md",
-    "Template Folder/List Template.md",
-    "Template Folder/Daily Note Template.md"
+    "Template Folder/List Template.md"
   ]
 }
